@@ -1,0 +1,11 @@
+*.swp
+*.swo
+*~
+.yardoc
+coverage/
+Gemfile.lock
+*.gem
+.idea
+.rvmrc
+doc/
+
