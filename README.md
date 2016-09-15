@@ -1,4 +1,4 @@
-Time-Genie
+Time-Genie [![Build Status](https://secure.travis-ci.org/davout/time-genie.png?branch=master)](http://travis-ci.org/davout/time-genie)
 =
 
 ## What is this ?
